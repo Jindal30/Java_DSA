@@ -13,6 +13,6 @@ Data structures and algorithms form the backbone of computer science and softwar
 
 ## Contact: 
 
-If you have any questions or suggestions, feel free to reach out via email - "mjindal3001@gmail.com"
+If you have any questions or suggestions, feel free to reach out via email - "mjindal3001@gmail.com" or write an issue.
 
 Happy Coding!
