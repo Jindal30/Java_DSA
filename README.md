@@ -11,7 +11,7 @@ Data structures and algorithms form the backbone of computer science and softwar
 - **Comprehensive Examples:** Detailed implementations of basic and advanced data structures and algorithms.
 - **Well-commented Code:** Clear explanations of the logic and approach used in each implementation.
 
-##Contact: 
+## Contact: 
 
 If you have any questions or suggestions, feel free to reach out via email - "mjindal3001@gmail.com"
 
