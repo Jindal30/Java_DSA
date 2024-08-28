@@ -1,0 +1,14 @@
+/* Write a program to input temperature from user in degree celcius and convert into farehniet. */
+
+import java.util.*;
+public class Program5 {
+    public static void main(String[] args)
+    {
+       Scanner scan = new Scanner(System.in);
+       float tempc = scan.nextFloat();
+
+       float tempf = (tempc*9/5)+32;
+
+       System.out.println("Temp in farehniet: " +tempf);
+    }
+}
