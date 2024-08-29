@@ -1,0 +1,24 @@
+/* Write a program to take in two numbers and an operator(+,-,*,/) and calculate the value. (use IF conditions). */
+
+import java.util.*;
+public class Program9 {
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        float a = scan.nextFloat();
+        float b = scan.nextFloat();
+        String op = scan.next();
+
+        if(op.equals("+"))
+        System.out.println("Sum is: "+(a+b));
+
+        else if(op.equals("-"))
+        System.out.println("Difference is: "+(a-b));
+
+        else if(op.equals("*"))
+        System.out.println("Multiplication is: "+(a*b));
+
+        else if(op.equals("/"))
+        System.out.println("Division is: "+(a/b));
+    }
+}
