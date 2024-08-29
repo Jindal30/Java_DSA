@@ -1,0 +1,16 @@
+/* Write a program to input principal, time and rate(P,T,R) from the user and find simple interest. */
+
+import java.util.*;
+public class Program8 {
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        int p = scan.nextInt();
+        float t = scan.nextFloat();
+        double r = scan.nextDouble();
+
+        double interest = (p*r*t)/100;
+
+        System.out.println("Simple interest is: "+interest);
+    }
+}
