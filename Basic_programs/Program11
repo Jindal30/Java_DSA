@@ -1,0 +1,14 @@
+/* Write a program to input currency in rupees and outut in USD. */
+
+import java.util.*;
+public class Program11 {
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        float rupees = scan.nextFloat();
+
+        double dollar = rupees * 0.012;
+
+        System.out.println(rupees+" is : "+dollar+" USD ");
+    }
+}
